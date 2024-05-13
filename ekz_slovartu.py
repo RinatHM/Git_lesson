@@ -9,3 +9,4 @@ for _ in range(int(input())):
         print('OK')
     else:
         print('Access denied')
+## Добавили коменты для изменения файла.
